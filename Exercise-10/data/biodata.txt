@@ -1,0 +1,9 @@
+Nama: Arum
+Umur: 18
+Alamat: Serang
+Nama: Arum
+Umur: 18
+Alamat: Serang
+Nama: Sekar
+Umur: 22
+Alamat: Jakarta
